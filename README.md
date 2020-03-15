@@ -1,1 +1,1 @@
-# devspoons-devspoon-startup-tizen-rpi3
+# devspoon-startup-tizen-rpi3
